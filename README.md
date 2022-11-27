@@ -1,12 +1,14 @@
-### Hi there 👋
+<div align="center" >
+<img width="350" height="250" src="https://media0.giphy.com/media/BaDsH4FpMBnqdK8J0g/giphy.gif?cid=ecf05e479hamw1e5pltoc60hy5i3040t40nqlgnlu8ifvd4h&rid=giphy.gif&ct=g"/>
+</div>
+<h1 align="center" > Olá, Mundo! Eu sou o Pedro Henrique. </h1>
+<h2 align="center"> Desenvolvedor Back-end </h2>
 
-<!--
-**pedr0h3nrique/pedr0h3nrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- FALAR DE SI
 
-Here are some ideas to get you started:
+<strong> Conecte-se comigo: </strong br> 
+<a href="https://www.linkedin.com/in/pedro-henrique-de-sales/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
